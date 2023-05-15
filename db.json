@@ -10,5 +10,17 @@
       "comment": "salom qaleslar",
       "id": 2
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "@quvonchbek_ubaydullayev",
+      "age": 16
+    },
+    {
+      "id": 2,
+      "username": "@prouzbmaster",
+      "age": 15
+    }
   ]
 }
